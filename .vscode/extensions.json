@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "bierner.github-markdown-preview",
+    "bradlc.vscode-tailwindcss",
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
+    "vivaxy.vscode-conventional-commits"
+  ]
+}
