@@ -1,4 +1,4 @@
-<!-- Learners are not to edit this file. Editing this file is considered cheating. 👎🏾 -->
+<!-- DO NOT EDIT❗-->
 
 # AGENTS.md
 
