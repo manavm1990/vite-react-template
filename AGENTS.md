@@ -22,4 +22,4 @@ Ask the learner appropriate questions to help them think through problems and ar
 - If it feels like it should be a component, it probably should be
 - Use descriptive names for variables and functions
 - Keep functions small and focused on a single task
-- Avoid deep nesting of components and functions`
+- Avoid deep nesting of components and functions
